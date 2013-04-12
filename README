@@ -1,18 +1,19 @@
 Installation:
 
-   ON OSX or Linux:
+   OSX:
       git clone git://github.com/luntar/dotvim.git ~/.vim
 
-    Windows:
+   Windows:
       git clone git://github.com/luntar/dotvim.git ~/vimfiles
 
 Setting up the .vimrc
 
   Create symlinks:
 
-    OSX or Linux:
+    OSX:
        ln -s ~/.vim/vimrc ~/.vimrc
        ln -s ~/.vim/gvimrc ~/.gvimrc
+
     Windows:
        %USERPROFILE%\vimfiles\win_setup.bat
 
@@ -22,17 +23,18 @@ Switch to the `~/.vim` directory, and fetch submodules:
     git submodule init
     git submodule update
 
+=Issues, Problems, and things that make me sad=
 
 Notes about Windows:
-Verify that perl.exe is on your path.  Also, make sure xxd.exe is on your path.  I have found
-this program in the vim installation, e.g. C:\Program Files (x86)\Vim\vim73.  Make sure this is also on
-you path.  (xxd.exe transforms a file to hex and is used with the HexToggle command, see the vimrc)
+  Verify that perl.exe is on your path.  Also, make sure xxd.exe is on your path.  I have found
+  this program in the vim installation, e.g. C:\Program Files (x86)\Vim\vim73.  Make sure this is also on
+  you path.  (xxd.exe transforms a file to hex and is used with the HexToggle command, see the vimrc)
 
-Also on Windows, Bck, the seach plugin uses ack.pl; This script must be on your path.
-Also note, Bck calls ack, not ack.pl - therfore, you must include '.PL' in your PATHEXT definition.
+  Also on Windows, Bck, the seach plugin uses ack.pl; This script must be on your path.
+  Also note, Bck calls ack, not ack.pl - therfore, you must include '.PL' in your PATHEXT definition.
 
-How the inital repo was created:
-The inital setup was configured using the script: inst.sh  (on windows, I execute this script 
-in the bash shell that comes with the git distro.)
+How the initial repo was created:
+  The initial setup was configured using the script: inst.sh  (on Windows, I execute this script 
+  in the bash shell that comes with the git repo.)
 
 
