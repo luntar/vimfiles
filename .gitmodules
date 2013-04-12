@@ -1,0 +1,93 @@
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-powerline"]
+	path = bundle/vim-powerline
+	url = https://github.com/Lokaltog/powerline.git
+[submodule "bundle/vim-fireplace"]
+	path = bundle/vim-fireplace
+	url = git://github.com/tpope/vim-fireplace.git
+[submodule "bundle/vim-classpath"]
+	path = bundle/vim-classpath
+	url = git://github.com/tpope/vim-classpath.git
+[submodule "bundle/vim-clojure-static"]
+	path = bundle/vim-clojure-static
+	url = git://github.com/guns/vim-clojure-static.git
+[submodule "bundle/vim-rainbow_parentheses"]
+	path = bundle/vim-rainbow_parentheses
+	url = https://github.com/kien/rainbow_parentheses.vim.git
+[submodule "bundle/vim-FuzzyFinder"]
+	path = bundle/vim-FuzzyFinder
+	url = https://github.com/vim-scripts/FuzzyFinder.git
+[submodule "bundle/vim-L9"]
+	path = bundle/vim-L9
+	url = https://github.com/vim-scripts/L9.git
+[submodule "bundle/vim-vimwiki"]
+	path = bundle/vim-vimwiki
+	url = https://github.com/vim-scripts/vimwiki.git
+[submodule "bundle/vim-taglist"]
+	path = bundle/vim-taglist
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/vim-nerdtree"]
+	path = bundle/vim-nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/vim-snipmate"]
+	path = bundle/vim-snipmate
+	url = http://github.com/msanders/snipmate.vim
+[submodule "bundle/vim-snippets"]
+	path = bundle/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "bundle/vim-supertab"]
+	path = bundle/vim-supertab
+	url = https://github.com/tsaleh/vim-supertab.git
+[submodule "bundle/vim-plantuml-syntax"]
+	path = bundle/vim-plantuml-syntax
+	url = https://github.com/aklt/plantuml-syntax.git
+[submodule "bundle/vim-bclose"]
+	path = bundle/vim-bclose
+	url = https://github.com/rbgrouleff/bclose.vim.git
+[submodule "bundle/vim-Bck"]
+	path = bundle/vim-Bck
+	url = https://github.com/vim-scripts/Bck.git
+[submodule "bundle/vim-session"]
+	path = bundle/vim-session
+	url = https://github.com/xolox/vim-session.git
+[submodule "bundle/vim-chess-png"]
+	path = bundle/vim-chess-png
+	url = https://github.com/vim-scripts/Chess-files-.pgn-extension.git
+[submodule "bundle/vim-jellyx"]
+	path = bundle/vim-jellyx
+	url = https://github.com/vim-scripts/JellyX.git
+[submodule "bundle/vim-commentary"]
+	path = bundle/vim-commentary
+	url = git://github.com/tpope/vim-commentary.git
+[submodule "bundle/vim-detailed"]
+	path = bundle/vim-detailed
+	url = https://github.com/rking/vim-detailed.git
+[submodule "bundle/vim-redl"]
+	path = bundle/vim-redl
+	url = https://github.com/dgrnbrg/vim-redl.git
+[submodule "bundle/vim-bash-support"]
+	path = bundle/vim-bash-support
+	url = https://github.com/vim-scripts/bash-support.vim.git
+[submodule "bundle/vim-cscope"]
+	path = bundle/vim-cscope
+	url = https://github.com/vim-scripts/cscope.vim.git
+[submodule "bundle/vim-undotree"]
+	path = bundle/vim-undotree
+	url = https://github.com/vim-scripts/undotree.vim.git
+[submodule "bundle/vim-zoomwin"]
+	path = bundle/vim-zoomwin
+	url = https://github.com/vim-scripts/ZoomWin.git
+[submodule "bundle/vim-abolish"]
+	path = bundle/vim-abolish
+	url = https://github.com/tpope/vim-abolish
+[submodule "bundle/vim-perl"]
+	path = bundle/vim-perl
+	url = https://github.com/vim-perl/vim-perl.git
+[submodule "bundle/vim-pyflakes"]
+	path = bundle/vim-pyflakes
+	url = https://github.com/kevinw/pyflakes-vim.git
