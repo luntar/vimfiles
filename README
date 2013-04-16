@@ -1,10 +1,10 @@
 Installation:
 
    OSX:
-      git clone git://github.com/luntar/dotvim.git ~/.vim
+      git clone git://github.com/luntar/vimfiles.git ~/.vim
 
    Windows:
-      git clone git://github.com/luntar/dotvim.git ~/vimfiles
+      git clone git://github.com/luntar/vimfiles.git ~/vimfiles
 
 Post Install - setting up the .vimrc
 
