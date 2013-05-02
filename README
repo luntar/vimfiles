@@ -14,7 +14,10 @@ Post Install - setting up the .vimrc
        ln -s ~/.vim/vimrc ~/.vimrc
 
     Windows:
-       %USERPROFILE%\vimfiles\win_setup.bat
+      I've never had good luck making this work (user error I'm sure).  Take a look at the scrip 'win_setu.bat'
+      that comes with my setup files:       
+      
+      %USERPROFILE%\vimfiles\win_setup.bat
 
 More Post Install - refresh the sub modules.
 
@@ -27,11 +30,11 @@ More Post Install - refresh the sub modules.
 Notes about Windows:
   Verify that perl.exe is on your path.  Also, make sure xxd.exe is on your path.  I have found this program in the vim installation, e.g. C:\Program Files (x86)\Vim\vim73.  Make sure this is also on you path.  (xxd.exe transforms a file to hex and is used with the HexToggle command, see the vimrc)
 
-  Also on Windows, Bck, the search plug in uses ack.pl; This script must be on your path.  Also note, Bck calls ack, not ack.pl - therefore, you must include '.PL' in your PATHEXT definition.
-  This is done by using the assoc tool in a command prompt (cmd.exe).
+  Also on Windows, Bck (a great seach tool) uses ack.pl; This script must be on your path.  Also note, Bck calls ack, not ack.pl - therefore, you must include '.PL' in your PATHEXT definition.
+  This is done by using the 'assoc' tool in a command prompt (cmd.exe).
 
 Misc: 
-  The initial setup was configured using the script: inst.sh.  (Windows: I execute this script in the bash shell that comes with the git)
+  The initial setup was configured using the script: inst.sh.  (Windows: I execute this script in the bash shell that comes with the git installation)
 
 Helpful Links:
   http://blog.jacius.info/git-submodule-cheat-sheet/
