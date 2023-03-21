@@ -6,13 +6,13 @@
 	url = https://github.com/Lokaltog/powerline.git
 [submodule "bundle/vim-fireplace"]
 	path = bundle/vim-fireplace
-	url = git://github.com/tpope/vim-fireplace.git
+	url = https://github.com/tpope/vim-fireplace.git
 [submodule "bundle/vim-classpath"]
 	path = bundle/vim-classpath
-	url = git://github.com/tpope/vim-classpath.git
+	url = https://github.com/tpope/vim-classpath.git
 [submodule "bundle/vim-clojure-static"]
 	path = bundle/vim-clojure-static
-	url = git://github.com/guns/vim-clojure-static.git
+	url = https://github.com/guns/vim-clojure-static.git
 [submodule "bundle/vim-rainbow_parentheses"]
 	path = bundle/vim-rainbow_parentheses
 	url = https://github.com/kien/rainbow_parentheses.vim.git
@@ -63,7 +63,7 @@
 	url = https://github.com/vim-scripts/JellyX.git
 [submodule "bundle/vim-commentary"]
 	path = bundle/vim-commentary
-	url = git://github.com/tpope/vim-commentary.git
+	url = https://github.com/tpope/vim-commentary.git
 [submodule "bundle/vim-detailed"]
 	path = bundle/vim-detailed
 	url = https://github.com/rking/vim-detailed.git
