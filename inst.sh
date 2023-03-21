@@ -78,7 +78,7 @@ instPlug http://github.com/msanders/snipmate.vim vim-snipmate
 instPlug https://github.com/honza/vim-snippets.git vim-snippets 
 
 # tab completion
-instPlug https://github.com/tsaleh/vim-supertab.git vim-supertab
+instPlug https://github.com/neitanod/vim-clevertab.git
 
 # plant UML syntax
 instPlug https://github.com/aklt/plantuml-syntax.git vim-plantuml-syntax
